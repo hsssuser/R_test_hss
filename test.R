@@ -1,7 +1,5 @@
-a <- "Hello world!"
-a
-
-
+b <- "Hello master!"
+b
 
 
 
