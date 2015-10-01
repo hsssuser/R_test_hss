@@ -1,0 +1,8 @@
+a <- "Hello world!"
+a
+
+
+
+
+
+
